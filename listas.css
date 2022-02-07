@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kanit&family=Lobster&family=Pacifico&family=Roboto+Slab&family=Shippori+Antique&family=Spline+Sans&display=swap');
+body{
+    background-color: rgb(255, 255, 255);
+}
+#fundo{
+    background-color: #02020a;
+    width: 1259px;
+    height: 672px;
+    margin: -584px 0px 0px 22px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50%);
+    position: absolute;
+}
+#linhafundo{
+    background-color: rgb(31 52 58);
+    width: 1326px;
+    height: 272px;
+    margin: 325px 0px 0px -8px;
+    position: relative;
+}
+#listas{
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 46px;
+    color: rgb(31 52 58);
+    margin-left: 79px;
+    margin-top: -562px;
+    position: absolute;
+    width: 550px;
+}
+#policiais:link {
+    color: white;
+    margin: -453px 0px 0px 138px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#policiais:visited {
+    color: white;
+    text-decoration: none;
+}
+#policiais:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#policiais:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#publico:link {
+    color: white;
+    margin: -491px 0px 0px 138px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#publico:visited {
+    color: white;
+    text-decoration: none;
+}
+#publico:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#publico:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#critica:link {
+    color: white;
+    margin: -491px 0px 0px 138px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#critica:visited {
+    color: white;
+    text-decoration: none;
+}
+#critica:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#critica:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#Medicas:link {
+    color: white;
+    margin: -494px 0px 0px 138px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#Medicas:visited {
+    color: white;
+    text-decoration: none;
+}
+#Medicas:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#Medicas:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#populares:link {
+    color: white;
+    margin: -491px 0px 0px 138px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#populares:visited {
+    color: white;
+    text-decoration: none;
+}
+#populares:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#populares:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#longas:link {
+    color: white;
+    margin: -414px 0px 0px 138px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#longas:visited {
+    color: white;
+    text-decoration: none;
+}
+#longas:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#longas:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#curtas:link {
+    color: white;
+    margin: -376px 0px 0px 138px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#curtas:visited {
+    color: white;
+    text-decoration: none;
+}
+#curtas:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#curtas:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#doc:link {
+    color: white;
+    margin: -340px 0px 0px 138px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#doc:visited {
+    color: white;
+    text-decoration: none;
+}
+#doc:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#doc:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#seta{
+    margin: -490px 0px 0px 100px;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+}
+img{
+    height: 277px;
+    width: 187px;
+    position: absolute;
+    border-radius: 6px;
+}
+#fileira1{
+    margin-top: 78px;
+    position: absolute;
+}
+#yellow, #peaky, #fleabag, #mirror{
+    margin: -577px 0px 0px 556px;
+}
+#watchmen, #narcos, #euphoria, #barry{
+    margin: 292px 0px 0px 556px;
+}
+#theboys, #house, #cobrakai, #b99{
+    margin: -869px 0px 0px 765px;
+}
+#tedlasso, #got, #breakingbad, #bojack{
+    margin: -577px 0px 0px 975px;
+}
+#theresident{
+    margin: -577px 0px 0px 975px;
+}
+#sob{
+    margin: 585px 0px 0px 765px;
+}

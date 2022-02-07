@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kanit&family=Lobster&family=Pacifico&family=Roboto+Slab&family=Shippori+Antique&family=Spline+Sans&display=swap');
+body{
+    background-color: rgb(255, 255, 255);
+}
+#receitas{
+    font-family: 'Shippori Antique', sans-serif;
+    margin: -508px 0px 0px 83px;
+    font-size: 33px;
+    color: white;
+    width: 752px;
+}
+#fundo{
+    background-color: #02020a;
+    width: 1259px;
+    height: 550px;
+    margin: 62px 0px 0px 24px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50);
+}
+#canela, #doce, #limao{
+    margin: 100px 0px 0px 493px;
+    height: 350px;
+    width: 350px;
+    position: absolute;
+}
+#receita-canela, #receita-doce, #receita-limao{
+    width: 351px;
+    font-size: 22px;
+    color: #ffffff;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.589);
+    text-align: center;
+}
+#receita-canela{
+    margin: 369px 0px 0px 492px;
+}
+#receita-doce{
+    margin: 400px 0px 0px 492px;
+}
+#receita-limao{
+    margin: 368px 0px 0px 492px;
+}
+#receita, #receita2, #receita3, #receita4, #receita5, #receita6{
+    background-color: rgb(31 52 58);
+    margin: 432px 0px 0px 493px;
+    height: 18px;
+    width: 350px;
+    position: absolute;
+}
+#docediv{
+    margin: -82px 0px 0px -442px;
+}
+#caneladiv{
+    margin: -82px 0px 0px -9px;
+}
+#limaodiv{
+    margin: -82px 0px 0px 416px;
+}

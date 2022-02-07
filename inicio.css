@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kanit&family=Lobster&family=Pacifico&family=Roboto+Slab&family=Shippori+Antique&family=Spline+Sans&display=swap');
+body{
+    background-color:rgb(255, 255, 255);
+}
+#fundo{
+    background-color: #02020a;
+    width: 1259px;
+    height: 672px;
+    margin: 15px 0px 0px 23px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50%);
+    position: relative;
+}
+#ola{
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 66px;
+    color: rgb(255, 255, 255);
+    margin-left: 25px;
+    margin-top: -510px;
+    background-color: #000000ba;
+    width: 1016px;
+    position: absolute;
+    height: 505px;
+    box-shadow: 0px -25px 353px 55px black;
+    padding: 0px 0px 0px 237px;
+}
+#linha2{
+    background-color: rgb(31, 52, 58);
+    height: 40px;
+    width: 1265px;
+    position: absolute;
+    margin: -44px 0px 0px 18px;
+}
+#pipoca{
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 57px;
+    color: rgb(255, 255, 255);
+    margin-left: 312px;
+    margin-top: -445px;
+    position: absolute;
+}
+#linha{
+    width: 902px;
+    height: 11px;
+    background-color: rgb(31, 52, 58);
+    margin-left: 218px;
+    margin-top: -354px;
+    position: absolute;
+}
+#twd{
+    height: 616px;
+    width: 1223px;
+    margin-left: 18px;
+    margin-top: 11px;
+    position: relative;
+    border: 21px solid black;
+}
+#sim:link {
+    color: white;
+    margin: 368px 0px 0px -872px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 43px;
+    font-weight: bold;
+}
+#sim:visited {
+    color: white;
+
+}
+#sim:hover {
+    color: white;
+    text-decoration: none;
+}
+#sim:active {
+    color: white;
+
+}
+#não:link {
+    color: white;
+    margin: 368px 0px 0px -504px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 43px;
+    font-weight: bold;
+}
+#não:visited {
+    color: white;
+    text-decoration: none;
+}
+#não:hover {
+    color: white;
+    text-decoration: none;
+}
+#não:active {
+    color: white;
+    text-decoration: none;
+
+}
+#logo{
+    width: 90px;
+    height: 80px;
+    margin: 40px 0px 0px -118px;
+    position: absolute;
+}

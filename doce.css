@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kanit&family=Lobster&family=Pacifico&family=Roboto+Slab&family=Shippori+Antique&family=Spline+Sans&display=swap');
+#pipoca{
+    height: 400px;
+    width: 400px;
+    margin: 109px 0px 0px 24px;
+    position: relative;
+    border: 20px solid rgb(31 52 58);
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50);
+}
+#fundo{
+    background-color: #02020a;
+    width: 1174px;
+    height: 440px;
+    margin: -444px 0px 0px 107px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50);
+}
+#receita{
+    font-family: 'Shippori Antique', sans-serif;
+    margin: -421px 0px 0px 489px;
+    font-size: 39px;
+    color: white;
+    position: absolute;
+    text-decoration: underline solid rgb(31 52 58);
+}
+#ngrdnts{
+    font-family: 'Shippori Antique', sans-serif;
+    margin: -384px 0px 0px 515px;
+    font-size: 28px;
+    color: white;
+    position: absolute;
+}
+li{
+    font-size: 26px;
+    font-family: 'Spline Sans', sans-serif;
+    color: white;
+    position: absolute;
+    width: 357px;
+}
+#um{
+    margin: -341px 0px 0px 476px;
+}
+#dois{
+    margin: -309px 0px 0px 476px;
+}
+#tres{
+    margin: -276px 0px 0px 476px;
+}
+#quatro{
+    margin: -244px 0px 0px 476px;
+}
+#cinco{
+    margin: -213px 0px 0px 476px;
+}
+#seis{
+    margin: -149px 0px 0px 476px;
+}
+#modo{
+    font-family: 'Shippori Antique', sans-serif;
+    margin: -384px 0px 0px 934px;
+    font-size: 28px;
+    color: white;
+    position: absolute;
+}
+#passo1{
+    font-size: 26px;
+    font-family: 'Spline Sans', sans-serif;
+    color: white;
+    position: absolute;
+    width: 342px;
+    margin: -341px 0px 0px 920px;
+}
+#linha{
+    width: 9px;
+    height: 307px;
+    margin: -378px 10px 10px 882px;
+    position: absolute;
+    background-color: rgb(31 52 58);
+}
+#outros:link {
+    color: white;
+    margin: -64px 0px 0px 971px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline solid rgb(31 52 58);
+}
+#outros:visited {
+    color: white;
+    text-decoration: none;
+}
+#outros:hover {
+    color: white;
+    text-decoration: none;
+}
+#outros:active {
+    color: white;
+    text-decoration: none;
+}
