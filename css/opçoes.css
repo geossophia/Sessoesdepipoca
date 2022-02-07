@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kanit&family=Lobster&family=Pacifico&family=Roboto+Slab&family=Shippori+Antique&family=Spline+Sans&display=swap');
+
+#não:link {
+    color: white;
+    margin: -117px 0px 0px 346px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#não:visited {
+    color: white;
+    text-decoration: none;
+}
+#não:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#não:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#publico:link {
+    color: white;
+    margin: -162px 0px 0px 453px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#publico:visited {
+    color: white;
+    text-decoration: none;
+}
+#publico:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#publico:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#critica:link {
+    color: white;
+    margin: -162px 0px 0px 67px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#critica:visited {
+    color: white;
+    text-decoration: none;
+}
+#critica:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#critica:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#recentes:link {
+    color: white;
+    margin: -117px 0px 0px 138px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#recentes:visited {
+    color: white;
+    text-decoration: none;
+}
+#recentes:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#recentes:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#populares:link {
+    color: white;
+    margin: -162px 0px 0px 849px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#populares:visited {
+    color: white;
+    text-decoration: none;
+}
+#populares:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#populares:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#longas:link {
+    color: white;
+    margin: -117px 0px 0px 745px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+#longas:visited {
+    color: white;
+    text-decoration: none;
+}
+#longas:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#longas:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#curtas:link {
+    color: white;
+    margin: -117px 0px 0px 927px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+#curtas:visited {
+    color: white;
+    text-decoration: none;
+}
+#curtas:hover {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#curtas:active {
+    color: rgba(255, 255, 255, 0.712);
+    text-decoration: none;
+}
+#narcos{
+    height: 616px;
+    width: 1223px;
+    margin-left: 18px;
+    margin-top: 5px;
+    position: relative;
+    border: 21px solid black;
+}
+#procura{
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 66px;
+    color: rgb(255, 255, 255);
+    margin-left: 28px;
+    margin-top: -510px;
+    background-color: #000000ba;
+    width: 954px;
+    position: absolute;
+    height: 247px;
+    box-shadow: 0px -25px 127px 15px black;
+    padding: 249px 0px 0px 285px;
+}
+#linha{
+    background-color: rgb(31, 52, 58);
+    height: 40px;
+    width: 1265px;
+    position: absolute;
+    margin: -44px 0px 0px 18px;
+}
+#baixo{
+    margin: 0px 0px 0px 51px;
+}
+#cima{
+    margin: 0px 0px 0px 0px;
+}
+#linhazinha1{
+    background-color: rgb(31, 52, 58);
+    height: 30px;
+    width: 6px;
+    margin: -152px 0px 0px 423px;
+    position: absolute;
+}
+#linhazinha2{
+    background-color: rgb(31, 52, 58);
+    height: 30px;
+    width: 6px;
+    margin: -152px 0px 0px 822px;
+    position: absolute;
+}
+#linhazinha3{
+    background-color: rgb(31, 52, 58);
+    height: 30px;
+    width: 6px;
+    margin: -101px 0px 0px 309px;
+    position: absolute;
+}
+#linhazinha4{
+    background-color: rgb(31, 52, 58);
+    height: 30px;
+    width: 6px;
+    margin: -101px 0px 0px 705px;
+    position: absolute;
+}
+#linhazinha5{
+    background-color: rgb(31, 52, 58);
+    height: 30px;
+    width: 6px;
+    margin: -101px 0px 0px 888px;
+    position: absolute;
+}
+#seta{
+    height: 63px;
+    width: 63px;
+    margin: -62px 0px 0px 615px;
+    position: absolute;
+}
+#olhada{
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 34px;
+    color: rgb(31, 52, 58);
+    margin-left: -7px;
+    margin-top: -3px;
+    position: absolute;
+    height: 85px;
+    background-color: white;
+    height: 100px;
+    width: 1223px;
+    padding: 27px 0px 0px 87px;
+}
+.hr5 {
+    border: 0;
+    border-top: medium double rgb(31, 52, 58);
+    height: 1px;
+    overflow: visible;
+    padding: 0;
+    color: rgb(31, 52, 58);
+    text-align: center;
+    margin: 88px 0px 0px 0px;
+    position: relative;
+}
+
+.hr5::after {
+  content: "📺";
+  display: inline-block;
+  position: relative;
+  top: -0.7em;
+  font-size: 1.4em;
+  padding: 0 0.3em;
+  background: white;
+}
+#listas:link {
+    color: black;
+    position: relative;
+    font-weight: bold;
+    text-decoration: none;
+}
+#listas:visited {
+    color: rgb(31, 52, 58);
+    text-decoration: none;
+}
+#listas:hover {
+    color: rgb(31, 52, 58);
+    text-decoration: none;
+}
+#listas:active {
+    color: rgb(31, 52, 58);
+}   

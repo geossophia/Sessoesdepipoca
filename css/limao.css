@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kanit&family=Lobster&family=Pacifico&family=Roboto+Slab&family=Shippori+Antique&family=Spline+Sans&display=swap');
+#pipoca{
+    height: 400px;
+    width: 400px;
+    margin: 79px 0px 0px 24px;
+    position: relative;
+    border: 20px solid rgb(31 52 58);
+}
+#fundo{
+    background-color: #02020a;
+    width: 1253px;
+    height: 541px;
+    margin: -445px 0px 0px 24px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50);
+}
+#receita{
+    font-family: 'Shippori Antique', sans-serif;
+    margin: -536px 0px 0px 489px;
+    font-size: 39px;
+    color: white;
+    position: absolute;
+    text-decoration: underline solid rgb(31 52 58);
+}
+#ngrdnts{
+    font-family: 'Shippori Antique', sans-serif;
+    margin: -384px 0px 0px 515px;
+    font-size: 28px;
+    color: white;
+    position: absolute;
+}
+li{
+    font-size: 26px;
+    font-family: 'Spline Sans', sans-serif;
+    color: white;
+    position: absolute;
+    width: 342px;
+}
+#um{
+    margin: -341px 0px 0px 476px;
+}
+#dois{
+    margin: -309px 0px 0px 476px;
+}
+#tres{
+    margin: -244px 0px 0px 476px;
+}
+#quatro{
+    margin: -180px 0px 0px 476px;
+}
+#cinco{
+    margin: -117px 0px 0px 476px;
+}
+#seis{
+    margin: -55px 0px 0px 476px;
+}
+#sete{
+    margin: -19px 0px 0px 476px;
+}
+#oito{
+    margin: 13px 0px 0px 476px;
+}
+#modo{
+    font-family: 'Shippori Antique', sans-serif;
+    margin: -384px 0px 0px 934px;
+    font-size: 28px;
+    color: white;
+    position: absolute;
+}
+#passo1{
+    font-size: 26px;
+    font-family: 'Spline Sans', sans-serif;
+    color: white;
+    position: absolute;
+    width: 371px;
+    margin: -341px 0px 0px 893px;
+}
+#linha{
+    width: 9px;
+    height: 449px;
+    margin: -378px 10px 10px 857px;
+    position: absolute;
+    background-color: rgb(31 52 58);
+}
+#ingredientes{
+    margin: -119px 0px 0px 0px;
+}
