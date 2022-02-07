@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kanit&family=Lobster&family=Pacifico&family=Roboto+Slab&family=Shippori+Antique&family=Spline+Sans&display=swap');
+#fundo{
+    background-color: #02020a;
+    width: 1259px;
+    height: 722px;
+    margin: 12px 0px 0px 24px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50%);
+}
+#conteudow{
+    margin: -802px 0px 0px 0px;
+}
+#conteudo{
+    margin: -632px 0px 0px 0px;
+}
+#elencoh{
+    margin-top: 0px;
+}
+#produtorah{
+    margin: 147px 0px 0px 26px;
+    width: 468px;
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+}
+#fundow{
+    background-color: #02020a;
+    width: 1259px;
+    height: 887px;
+    margin: 12px 0px 0px 24px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50%);
+}
+#fundof{
+    background-color: #02020a;
+    width: 1259px;
+    height: 801px;
+    margin: 12px 0px 0px 24px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50%);
+}
+#conteudof{
+    margin: -723px 0px 0px 0px;
+}
+#poster{
+    margin: -51px 0px 0px 58px;
+    height: 377px;
+    width: 287px;
+    position: absolute;
+    border-radius: 6px;
+}
+#emmy{
+    margin: -6px 0px 0px 842px;
+    height: 409px;
+    width: 408px;
+    position: absolute;
+}
+#nome{
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 33px;
+    color: rgb(255, 255, 255);
+    margin-left: 460px;
+    margin-top: -46px;
+    position: absolute;
+}
+#proxima, #temporada, #produtora, #ano{
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+}
+#infos{
+    margin: -583px 0px 0px 366px;
+}
+#proxima{
+    margin: 105px 0px 0px 27px;
+}
+#ano{
+    margin: 25px 0px 0px 27px;
+}
+#produtora{
+    margin: 146px 0px 0px 27px;
+}
+#temporada{
+    margin: 64px 0px 0px 27px;
+}
+#linha{
+    background-color: rgb(31, 52, 58);
+    height: 5px;
+    width: 416px;
+    position: absolute;
+    margin: 10px 0px 0px 375px;
+}
+#linha2{
+    background-color: rgb(31, 52, 58);
+    height: 7px;
+    width: 408px;
+    position: absolute;
+    margin: 399px 0px 0px 842px;
+}
+#lnc{
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 33px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(31 52 58);
+    height: 52px;
+    width: 366px;
+    margin-left: 375px;
+    margin-top: 201px;
+    position: absolute;
+    padding: 10px 0px 0px 50px;
+}
+#ndccs{
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 32px;
+    color: rgb(31 52 58);
+    margin-left: 858px;
+    margin-top: 405px;
+    position: absolute;
+}
+#atores{
+    margin: 271px 0px 0px 381px;
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    width: 403px;
+    text-align: justify;
+}
+#sinopse{
+    margin: 342px 0px 0px 35px;
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 25px;
+    color: rgb(31 52 58);
+    background-color: white;
+    position: absolute;
+    width: 326px;
+    height: 252px;
+    text-align: justify;
+}
+#sinopse{
+    margin: 342px 0px 0px 35px;
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 25px;
+    color: rgb(31 52 58);
+    background-color: white;
+    position: absolute;
+    width: 326px;
+    height: 464px;
+    text-align: justify;
+}
+#sinopsew{
+    margin: 342px 0px 0px 35px;
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 25px;
+    color: rgb(31 52 58);
+    background-color: white;
+    position: absolute;
+    width: 326px;
+    height: 439px;
+    text-align: justify;
+}
+#sinopsef{
+    margin: 342px 0px 0px 35px;
+    font-family: 'Shippori Antique', sans-serif;
+    font-size: 25px;
+    color: rgb(31 52 58);
+    background-color: white;
+    position: absolute;
+    width: 326px;
+    height: 332px;
+    text-align: justify;
+}
+#indicacoes{
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 33px;
+    color: rgb(255, 255, 255);
+    height: 52px;
+    width: 366px;
+    margin-left: 824px;
+    margin-top: -68px;
+    position: absolute;
+    padding: 10px 0px 0px 50px;
+}
+#premiacoes{
+    margin: 451px 0px 0px 835px;
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    width: 425px;
+    text-align: justify;
+}

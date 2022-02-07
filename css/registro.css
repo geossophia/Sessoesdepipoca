@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kanit&family=Lobster&family=Pacifico&family=Roboto+Mono:wght@700&family=Roboto+Slab&family=Shippori+Antique&family=Spline+Sans&family=Ubuntu:wght@400;700&display=swap');
+body{
+    background-color:rgb(255, 255, 255);
+}
+#fundo{
+    background-color: #02020a;
+    width: 1259px;
+    height: 672px;
+    margin: 15px 0px 0px 23px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50%);
+    position: relative;
+}
+#linha1{
+    width: 877px;
+    height: 491px;
+    margin: -672px 0px 0px 405px;
+    position: absolute;
+}
+#registro{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 43px;
+    margin: -636px 0px 0px 73px;
+    color: #ffffff;
+    position: absolute;
+    font-weight: bold;
+}
+#pipoca{
+    margin: -628px 0px 0px 253px;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
+#lcdp{
+    width: 577px;
+    height: 672px;
+    margin: -672px 0px 0px 705px;
+    position: absolute;
+}
+#linhazinha{
+    height: 20px;
+    width: 1259px;
+    margin: -38px 0px 0px 23px;
+    position: absolute;
+    background-color: rgb(31 52 58);
+}
+#lugarnome{
+    margin: -551px 0px 0px 28px;
+}
+#lugarsobre{
+    margin: 0px 0px 0px -627px;
+}
+.form-control{
+    width: 33%;
+}
+#logina{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 38px;
+    margin: -382px 0px 0px 438px;
+    color: #ffffff;
+    position: absolute;
+    font-weight: bold;
+}
+#loginimg{
+    width: 486px;
+    height: 246px;
+    margin: -636px 0px 0px 418px;
+    border-radius: 15px 15px 0px 0px;
+    position: absolute;
+}
+#nomea{
+    margin: -530px 0px 0px 55px;
+    position: absolute;
+}
+#lausuario{
+    color: #ffffff;
+    font-family: 'Kanit', sans-serif;
+    font-size: 27px;
+}
+#lanome{
+    color: #ffffff;
+    font-family: 'Kanit', sans-serif;
+    font-size: 27px;
+}
+#nome{
+    width: 227%;
+    padding: 5px 39px;
+    background-color: white;
+    font-size: 19px;
+    border: 3px solid rgb(31 52 58);
+}
+#nome2{
+    width: 227%;
+    padding: 5px 39px;
+    background-color: white;
+    font-size: 19px;
+    border: 3px solid rgb(31 52 58);
+}
+
+#sobreb{
+    margin: -530px 0px 0px 347px;
+    position: absolute;
+}
+#sobrela{
+    margin: -569px 0px 0px 372px;
+    position: absolute;
+}
+#nomela{
+    margin: -569px 0px 0px 74px;
+    position: absolute;
+}
+#senhaa{
+    margin: -339px 0px 0px 75px;
+    position: absolute;
+}
+#senhab{
+    margin: -298px 0px 0px 55px;
+    position: absolute;
+}
+#lasenha{
+    color: #ffffff;
+    font-family: 'Kanit', sans-serif;
+    font-size: 27px;
+}
+#insenha{
+    width: 250%;
+    padding: 5px 39px;
+    background-color: white;
+    font-size: 19px;
+    border: 3px solid rgb(31 52 58);
+
+}
+#senha2{
+    margin: -217px 0px 0px 441px;
+    position: absolute;
+}
+#usuarioa{
+    margin: -496px 0px 0px 74px;
+    position: absolute;
+}
+#lausuario{
+    color: #ffffff;
+    font-family: 'Kanit', sans-serif;
+    font-size: 27px;
+}
+#inusuario{
+    width: 292%;
+    padding: 5px 39px;
+    background-color: white;
+    font-size: 19px;
+    border: 3px solid rgb(31 52 58);
+
+}
+#usuario2{
+    margin: -456px 0px 0px 92px;
+    position: absolute;
+}
+#user{
+    background-color: rgb(31 52 58);
+    color: #ffffff;
+    width: 32px;
+    height: 38px;
+    margin: -456px 0px 0px 55px;
+    position: absolute;
+    padding: 0px 0px 0px 5px;
+    font-size: 30px;
+}
+#emaila{
+    margin: -416px 0px 0px 74px;
+    position: absolute;
+}
+#lausuario{
+    color: #ffffff;
+    font-family: 'Kanit', sans-serif;
+    font-size: 27px;
+}
+#inemail{
+    width: 574%;
+    padding: 5px 39px;
+    background-color: white;
+    font-size: 19px;
+    border: 3px solid rgb(31 52 58);
+
+}
+#emailb{
+    margin: -376px 0px 0px 55px;
+    position: absolute;
+}
+a.animated-button.thar-one {
+    color: #fff;
+    margin: -197px 0px 0px 178px;
+    cursor: pointer;
+    display: block;
+    position: sticky;
+    border: 5px solid rgb(31 52 58);
+    transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+    height: 44px;
+    width: 222px;
+    padding: 0px 0px 0px 111px;
+}
+a.animated-button.thar-one:hover {
+	color: #000 !important;
+	background-color: transparent;
+	text-shadow: none;
+}
+a.animated-button.thar-one:hover:before {
+	bottom: 0%;
+	top: auto;
+	height: 100%;
+}
+a.animated-button.thar-one:before {
+	display: block;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 0px;
+	width: 100%;
+	z-index: -1;
+	content: '';
+	color: #000 !important;
+	background: rgb(31 52 58);
+	transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+}
+#enviar{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 27px;
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+#lugar{
+    margin: 221px 0px 0px 0px;
+    position: absolute;
+}

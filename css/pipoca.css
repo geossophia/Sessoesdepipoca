@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kanit&family=Lobster&family=Pacifico&family=Roboto+Slab&family=Shippori+Antique&family=Spline+Sans&display=swap');
+body{
+    background-color: rgb(255, 255, 255);
+}
+#fundo{
+    background-color: #02020a;
+    width: 1259px;
+    height: 672px;
+    margin: 12px 0px 0px 24px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 50);
+}
+#pipoquinha{
+    font-family: 'Shippori Antique', sans-serif;
+    margin: -632px 0px 0px 495px;
+    font-size: 33px;
+    color: white;
+    width: 752px;
+}
+span{
+    text-decoration: underline solid rgb(31 52 58);
+}
+#linha{
+    margin: -136px 0px 0px 434px;
+    background-color: rgb(31 52 58);
+    height: 672px;
+    width: 12px;
+    position: absolute;
+}
+#linha2{
+    margin: -136px 0px 0px 445px;
+    background-color: rgb(21, 35, 39);
+    height: 672px;
+    width: 12px;
+    position: absolute;
+}
+#pipoca{
+    height: 672px;
+    width: 424px;
+    margin: -136px 0px 0px 24px;
+    position: absolute;
+}
+#ajuda{
+    font-size: 29px;
+    font-family: 'Spline Sans', sans-serif;
+    color: white;
+    margin: 29px 0px 0px 626px;
+    position: absolute;
+}
+#tradicional, #caramelada{
+    margin: 100px 0px 0px 493px;
+    height: 350px;
+    width: 350px;
+    position: absolute;
+}
+#receita-tradicional, #receita-caramelada{
+    width: 351px;
+    margin: 369px 0px 0px 492px;
+    font-size: 22px;
+    color: #ffffff;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.589);
+    text-align: center;
+}
+#receita, #receita2{
+    background-color: rgb(31 52 58);
+    margin: 432px 0px 0px 493px;
+    height: 18px;
+    width: 350px;
+    position: absolute;
+}
+#carameladadiv{
+    margin: 0px 0px 0px 378px;
+}
+#outras:link {
+    color: white;
+    margin: 463px 0px 0px 747px;
+    font-family: 'Shippori Antique', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline solid rgb(31 52 58);
+}
+#outras:visited {
+    color: white;
+    text-decoration: none;
+}
+#outras:hover {
+    color: white;
+    text-decoration: none;
+}
+#outras:active {
+    color: white;
+    text-decoration: none;
+}
